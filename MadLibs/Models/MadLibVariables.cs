@@ -2,9 +2,6 @@ namespace MadLib.Models
 {
   public class MadLibVariable
   {
-    public string Recipient { get; set; }
-    public string Sender  { get; set; }
-
     public string Person1 { get; set; }
 
     public string Person2  { get; set; }
